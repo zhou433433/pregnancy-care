@@ -1,0 +1,38 @@
+// Health facilities in and around Bin Qasim Town, Karachi.
+// Generated from OpenStreetMap data. Names, phone numbers and services are not verified.
+window.FACILITY_META = {"source": "OpenStreetMap contributors (ODbL), Overpass API", "fetched": "2026-11-15", "bbox": [24.72, 67.2, 24.95, 67.55], "rawCount": 47, "keptCount": 33, "withPhone": 2, "maternityNamed": 2, "withUrduName": 4, "withHours": 1};
+window.FACILITIES = [
+  {"id": "n12211525113", "name": "Ahmad hassan Ishaque", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.86002, "lon": 67.20827, "phone": "", "street": "V665+279, Unnamed Road, Jamal e Ibrahim Housing Society Bin Qasim Town,", "hours": ""},
+  {"id": "n2552024424", "name": "Al Hadeed Medical Centre", "nameUr": "الحدید میڈیکل سنٹر", "kind": "hospital", "maternity": false, "lat": 24.87004, "lon": 67.35545, "phone": "", "street": "", "hours": ""},
+  {"id": "n5228298785", "name": "AL Syed Hospital & Meternity Home", "nameUr": "", "kind": "hospital", "maternity": true, "lat": 24.83275, "lon": 67.22729, "phone": "", "street": "D7 Road", "hours": ""},
+  {"id": "n5156794596", "name": "Al Tibri General Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.88506, "lon": 67.22512, "phone": "", "street": "Memon Goth Road", "hours": ""},
+  {"id": "n5133102881", "name": "Al Zehra Clinic", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.88309, "lon": 67.20204, "phone": "", "street": "Pir Mahfooz Ali Road", "hours": ""},
+  {"id": "n5130353811", "name": "Al-Khidmat Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.9035, "lon": 67.20527, "phone": "", "street": "Liaqat Road", "hours": ""},
+  {"id": "n4739830940", "name": "Alkhidmat Fareeda Yaqoob", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.87083, "lon": 67.37256, "phone": "", "street": "", "hours": ""},
+  {"id": "n4737814936", "name": "Aurangzeb Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.85917, "lon": 67.20799, "phone": "", "street": "National Highway", "hours": ""},
+  {"id": "n5068951561", "name": "Ayesha General Hospital", "nameUr": "عائشہ جنرل ہسپتال", "kind": "hospital", "maternity": false, "lat": 24.86663, "lon": 67.35788, "phone": "+922134716608", "street": "Khayaban e Hadeed", "hours": ""},
+  {"id": "n5103518890", "name": "Bilqees Sultan Medical Centre", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.83597, "lon": 67.2371, "phone": "", "street": "Mehran Highway", "hours": ""},
+  {"id": "n4739782289", "name": "City Medical Centre", "nameUr": "سٹی میڈیکل سنٹر", "kind": "clinic", "maternity": false, "lat": 24.86826, "lon": 67.35397, "phone": "", "street": "دیار حبیب روڈ", "hours": ""},
+  {"id": "n4344000389", "name": "CMH Malir", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.94948, "lon": 67.21432, "phone": "", "street": "Fouji Road", "hours": ""},
+  {"id": "w906766429", "name": "Dr Khalida Clinic", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.91762, "lon": 67.25098, "phone": "", "street": "", "hours": ""},
+  {"id": "n5156794593", "name": "Government Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.90901, "lon": 67.22261, "phone": "", "street": "Memon Goth Road", "hours": ""},
+  {"id": "n4767455692", "name": "Government Saudabad Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.90303, "lon": 67.21126, "phone": "", "street": "Liaqat Road", "hours": ""},
+  {"id": "n5130968259", "name": "Hajra Medical Centre", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.92725, "lon": 67.20403, "phone": "", "street": "Mallir Cantt Road", "hours": ""},
+  {"id": "n4737820029", "name": "Hamid Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.85444, "lon": 67.21083, "phone": "", "street": "National Highway", "hours": ""},
+  {"id": "n5133048481", "name": "Khatak Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.85067, "lon": 67.20659, "phone": "", "street": "Main Korangi Road", "hours": ""},
+  {"id": "n4767455693", "name": "Khokrapar No.2 Govt Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.90344, "lon": 67.21136, "phone": "", "street": "Liaqat Road", "hours": ""},
+  {"id": "n4739321179", "name": "Madina Medical Center", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.83783, "lon": 67.29329, "phone": "", "street": "North West Industrial Zone", "hours": ""},
+  {"id": "n5105344543", "name": "Nagori Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.8346, "lon": 67.26134, "phone": "", "street": "", "hours": ""},
+  {"id": "n5103425098", "name": "Nawab Medical Complex", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.83774, "lon": 67.21707, "phone": "", "street": "Mehran Highway", "hours": ""},
+  {"id": "n5228298784", "name": "Nimrah Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.83273, "lon": 67.22759, "phone": "", "street": "D7 Road", "hours": ""},
+  {"id": "n5273680059", "name": "Pakistan Steel Hundred Bed Hospital", "nameUr": "100 بیڈ ہسپتال", "kind": "hospital", "maternity": false, "lat": 24.86095, "lon": 67.34406, "phone": "", "street": "", "hours": ""},
+  {"id": "n11708091044", "name": "PPHI Dhabeji", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.79095, "lon": 67.52518, "phone": "", "street": "", "hours": ""},
+  {"id": "n4783144512", "name": "Razia Medical Centre", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.83636, "lon": 67.26337, "phone": "", "street": "Mehran Highway", "hours": ""},
+  {"id": "n13194476234", "name": "Saeed Medical Centre", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.87315, "lon": 67.37089, "phone": "+922134721688", "street": "", "hours": "Mo-Sa 09:00-21:00"},
+  {"id": "n4739782288", "name": "Saima Clinic", "nameUr": "", "kind": "clinic", "maternity": false, "lat": 24.86982, "lon": 67.3542, "phone": "", "street": "Gulshan e Hadeed", "hours": ""},
+  {"id": "n4783144514", "name": "Saleh Shifa Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.83623, "lon": 67.26093, "phone": "", "street": "Mehran Highway", "hours": ""},
+  {"id": "n5127785877", "name": "SESSI Hospital - Mehran Highway", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.83387, "lon": 67.22571, "phone": "", "street": "Mehran Highway", "hours": ""},
+  {"id": "n5143340852", "name": "Shah General Hospital", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.852, "lon": 67.20495, "phone": "", "street": "Main Korangi Road", "hours": ""},
+  {"id": "w1278985319", "name": "Sindh Govt. hospital Rahi Goth", "nameUr": "", "kind": "hospital", "maternity": false, "lat": 24.81697, "lon": 67.22602, "phone": "", "street": "", "hours": ""},
+  {"id": "n5103425089", "name": "The New Revival Kainat Clinic Maternity Home", "nameUr": "", "kind": "clinic", "maternity": true, "lat": 24.83798, "lon": 67.20633, "phone": "", "street": "Landhi", "hours": ""}
+];
